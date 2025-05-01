@@ -36,9 +36,22 @@ Feel free to reach out to me via:
 - **LinkedIn:** [Opira Nathan](www.linkedin.com/in/opira-nathan-35b471328)
 
 
+## 🚀 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
+
+
 ## Fun Facts
-- I love solving puzzles and playing chess.
-- I'm an avid reader and enjoy books on data science, technology, and philosophy.
+- I am a sports activist with a passion for playing games like football.
+- I'm an avid reader and enjoy articles on data science, technology,conservation and philosophy.
+- I'm also an animal lover with a soft spot for cats and dogs.
 
 Thanks for visiting my profile! Let's connect and build something amazing together.
 

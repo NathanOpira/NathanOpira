@@ -52,9 +52,11 @@ Feel free to reach out to me via:
 
 
 ## Fun Facts
-- I am a sports activist with a passion for playing games like football.
+- I am a sports activist with a passion for games like football.
 - I'm an avid reader and enjoy articles on data science, technology,conservation and philosophy.
 - I'm also an animal lover with a soft spot for cats and dogs.
+- 🎨 Passionate about Art & Aesthetics
+I believe that great code isn’t just functional—it should be beautiful too. I bring my love for art into every project by focusing on clean, intuitive design and elegant solutions. 
 
 Thanks for visiting my profile! Let's connect and build something amazing together.
 

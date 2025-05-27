@@ -26,6 +26,7 @@ I am a passionate data science and analytics student. I'm currently pursuing my 
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
   ![SHAP](https://img.shields.io/badge/SHAP-2a64a8?style=for-the-badge&logo=python&logoColor=white)
+  ![Dash](https://img.shields.io/badge/Dash-0F80C1?style=for-the-badge&logo=dash&logoColor=white)
 
 - **Big Data:**
   ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)

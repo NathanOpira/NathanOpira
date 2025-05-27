@@ -35,8 +35,8 @@ I am a passionate data science and analytics student. I'm currently pursuing my 
 
 ## Contact
 Feel free to reach out to me via:
-- **Email:** [opiranathan@gmail.com](mailto:opiranathan@gmail.com)
-- **LinkedIn:** [Opira Nathan](www.linkedin.com/in/opira-nathan-35b471328)
+ **Email:** [opiranathan@gmail.com](mailto:opiranathan@gmail.com)
+ **LinkedIn:** [Opira Nathan](www.linkedin.com/in/opira-nathan-35b471328)
 
 
 ## 🚀 GitHub Stats & Activity

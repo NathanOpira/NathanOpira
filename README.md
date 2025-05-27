@@ -58,7 +58,7 @@ Feel free to reach out to me via:
 - 🎨 Passionate about Art & Aesthetics
 I believe that great code isn’t just functional—it should be beautiful too. I bring my love for art into every project by focusing on clean, intuitive design and elegant solutions. 
 
-Thanks for visiting my profile! Let's connect and build something amazing together.
+Thanks for visiting my profile! Let's connect and build something amazing together🌍.
 
 ---
 

@@ -14,6 +14,8 @@ I am a passionate data science and analytics student. I'm currently pursuing my 
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+  ![snscrape](https://img.shields.io/badge/-snscrape-10213B?logo=python&logoColor=white&style=flat)
+
 
  **Machine Learning:**
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -27,6 +29,8 @@ I am a passionate data science and analytics student. I'm currently pursuing my 
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
   ![SHAP](https://img.shields.io/badge/SHAP-2a64a8?style=for-the-badge&logo=python&logoColor=white)
   ![Dash](https://img.shields.io/badge/Dash-0F80C1?style=for-the-badge&logo=dash&logoColor=white)
+  ![wordcloud](https://img.shields.io/badge/-wordcloud-5E8C6A?logo=python&logoColor=white&style=flat)
+
 
  **Big Data:**
   ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)

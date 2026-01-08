@@ -68,15 +68,53 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+###  My GitHub Stats
+
+<!-- Primary Stats - Simple & Reliable -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<!-- Top Languages - Multiple Fallback Sources -->
+<div>
+  <!-- Source 1: Main API -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" style="margin-right: 10px;" />
   
-  <!-- GitHub Stats -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanOpira&theme=github-dark&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff&area=true&hide_title=false" alt="Activity Graph" width="90%" />
+  <!-- Source 2: Alternative API -->
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true" alt="Languages Backup" />
+</div>
+
+<!-- Streak Stats -->
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanOpira&theme=dark&hide_border=true&background=0D1117&stroke=20C20E" alt="GitHub Streak" />
+
+</div>
+
+<!-- FALLBACK: If APIs fail, this manual section ALWAYS shows -->
+<div align="center" style="margin-top: 20px; padding: 15px; background: #0d1117; border-radius: 10px; border: 1px solid #20C20E;">
+
+###  Languages & Tools I Use
+
+<!-- Programming Languages -->
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+
+<!-- Data Science Stack -->
+<div style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</div>
+
+<!-- Visualization Tools -->
+<div style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</div>
 
 </div>
 

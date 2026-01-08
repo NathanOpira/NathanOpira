@@ -64,17 +64,6 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 </div>
 
 ---
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&theme=dark&layout=compact" />
-
-</div>
----
-
 ## 🚀 Featured Projects
 
 ### ** Air Quality Analysis**

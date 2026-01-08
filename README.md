@@ -87,7 +87,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 ### ** Air Quality Analysis**
 <div align="center">
   
-[![Air Quality Analysis](https://img.shields.io/badge/🌍-Air_Quality_Analysis-20C20E?style=for-the-badge)](https://github.com/NathanOpira/Air-Quality-Analysis)
+[![Air Quality Analysis](https://img.shields.io/badge/-Air_Quality_Analysis-20C20E?style=for-the-badge)](https://github.com/NathanOpira/Air-Quality-Analysis)
 
 </div>
 
@@ -131,25 +131,12 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 ##  Currently Working On
 
-- 🔭 **Advanced ML Research:** Developing transformer models for time-series forecasting
-- 🌱 **Learning:** MLOps, cloud deployment (AWS/GCP), and deep learning architectures
-- 👯 **Open Source:** Contributing to data visualization and ML libraries
-- 🤔 **Exploring:** Ethical AI, responsible data science, and model interpretability
-- 💬 **Ask me about:** Data storytelling, sports analytics, or ML model development
-- ⚡ **Fun fact:** I combine art and data to create compelling visual narratives
-
----
-
-##  Certifications
-
-<div align="center">
-  
-  ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
-  ![Microsoft Certified](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-  ![IBM Data Science](https://img.shields.io/badge/IBM-Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white)
-  ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-</div>
+- **Advanced ML Research:** Developing transformer models for time-series forecasting
+- **Learning:** MLOps, cloud deployment (AWS/GCP), and deep learning architectures
+- **Open Source:** Contributing to data visualization and ML libraries
+- **Exploring:** Ethical AI, responsible data science, and model interpretability
+- **Ask me about:** Data storytelling, sports analytics, or ML model development
+- **Fun fact:** I combine art and data to create compelling visual narratives
 
 ---
 
@@ -167,7 +154,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 ---
 
-## 💭 Philosophy & Interests
+##  Philosophy & Interests
 
 > *"In data, as in art, the beauty lies in revealing what was previously unseen."*
 
@@ -189,7 +176,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 </div>
 
 <p align="center">
-  <i>Thanks for visiting my profile! Let's connect and build data-driven solutions that make an impact! 🌟</i>
+  <i>Thanks for visiting my profile! Let's connect and build data-driven solutions that make an impact! </i>
 </p>
 
 ---

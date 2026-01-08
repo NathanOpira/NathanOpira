@@ -91,7 +91,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 ### ** Energy Consumption Forecast**
 <div align="center">
   
-[![Energy Consumption Forecast](https://img.shields.io/badge/⚡-Energy_Consumption_Forecast-20C20E?style=for-the-badge)](https://github.com/NathanOpira/Energy-consumption-forecast.)
+[![Energy Consumption Forecast](https://img.shields.io/badge/-Energy_Consumption_Forecast-20C20E?style=for-the-badge)](https://github.com/NathanOpira/Energy-consumption-forecast.)
 
 </div>
 

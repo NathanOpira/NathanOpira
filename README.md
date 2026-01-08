@@ -64,32 +64,34 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-###  My GitHub Stats
+<!-- GitHub Stats Cards -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 30px 0;">
 
-<!-- Primary Stats - Simple & Reliable -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<!-- Top Languages - Multiple Fallback Sources -->
-<div>
-  <!-- Source 1: Main API -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" style="margin-right: 10px;" />
+  <!-- Stats Card -->
+  <div>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+    <p style="color: #20C20E; margin-top: 5px; font-size: 14px;">📊 Overall Stats</p>
+  </div>
   
-  <!-- Source 2: Alternative API -->
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true" alt="Languages Backup" />
+  <!-- Languages Card -->
+  <div>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff&langs_count=5" alt="Top Languages" />
+    <p style="color: #20C20E; margin-top: 5px; font-size: 14px;">💻 Top Languages</p>
+  </div>
+  
+  <!-- Streak Card -->
+  <div>
+    <img height="195em" src="https://streak-stats.demolab.com?user=NathanOpira&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E" alt="GitHub Streak" />
+    <p style="color: #20C20E; margin-top: 5px; font-size: 14px;">🔥 Contribution Streak</p>
+  </div>
+
 </div>
 
-<!-- Streak Stats -->
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanOpira&theme=dark&hide_border=true&background=0D1117&stroke=20C20E" alt="GitHub Streak" />
-
 </div>
-
-<!-- FALLBACK: If APIs fail, this manual section ALWAYS shows -->
-<div align="center" style="margin-top: 20px; padding: 15px; background: #0d1117; border-radius: 10px; border: 1px solid #20C20E;">
 
 ---
 

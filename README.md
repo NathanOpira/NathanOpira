@@ -68,12 +68,39 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&theme=dark&layout=compact" height="165" />
+### 📈 My GitHub Metrics
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=NathanOpira&theme=dark" height="165" />
+<div style="background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #20C20E; width: 90%; margin: 20px auto;">
+  
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+    
+    <div style="text-align: center;">
+      <h3 style="color: #20C20E;">🏆 Contributions</h3>
+      <p style="font-size: 24px; color: white;">140+</p>
+      <p style="color: #8b949e;">Past Year</p>
+    </div>
+    
+    <div style="text-align: center;">
+      <h3 style="color: #20C20E;">💻 Top Languages</h3>
+      <p style="color: white;">Python • Jupyter • R • SQL</p>
+      <p style="color: #8b949e;">Data Science Stack</p>
+    </div>
+    
+    <div style="text-align: center;">
+      <h3 style="color: #20C20E;">📊 Public Repos</h3>
+      <p style="font-size: 24px; color: white;">4</p>
+      <p style="color: #8b949e;">Active Projects</p>
+    </div>
+    
+  </div>
+  
+  <div style="margin-top: 20px; text-align: center;">
+    <h4 style="color: #20C20E;">🔥 Recent Activity</h4>
+    <p style="color: white;">Consistently contributing to data science projects</p>
+    <p style="color: #8b949e;">Specializing in Air Quality & Energy Analysis</p>
+  </div>
+  
+</div>
 
 </div>
 ---

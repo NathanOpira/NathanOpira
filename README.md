@@ -23,13 +23,13 @@
 
 ---
 
-## 📌 About Me
+##  About Me
 
 A passionate Data Science and Analytics student at Uganda Christian University with a strong foundation in statistical analysis, machine learning, and data visualization. I specialize in transforming complex datasets into actionable insights and building intelligent predictive models. My approach combines technical precision with artistic sensibility to create compelling data narratives that drive informed decision-making.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
 ### **Programming & Databases**
 <div align="center">
@@ -101,7 +101,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 <tr>
 <td width="50%">
-<h3 align="center">📊 Visualization Projects</h3>
+<h3 align="center"> Visualization Projects</h3>
 <div align="center">
 <a href="https://github.com/NathanOpira/Traffic-Accident-Analysis">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanOpira&repo=Traffic-Accident-Analysis&theme=github_dark&show_owner=true" />
@@ -110,7 +110,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 <p align="center"><strong>Traffic Accident Analysis</strong> - Data visualization and insights</p>
 </td>
 <td width="50%">
-<h3 align="center">🔍 Research & Analysis</h3>
+<h3 align="center"> Research & Analysis</h3>
 <div align="center">
 <a href="https://github.com/NathanOpira/2024-Kaggle-AI-Survey-Analysis">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanOpira&repo=2024-Kaggle-AI-Survey-Analysis&theme=github_dark&show_owner=true" />
@@ -123,7 +123,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 ---
 
-## 🎯 Currently Working On
+##  Currently Working On
 
 - 🔭 **Advanced ML Research:** Developing transformer models for time-series forecasting
 - 🌱 **Learning:** MLOps, cloud deployment (AWS/GCP), and deep learning architectures
@@ -134,7 +134,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 <div align="center">
   

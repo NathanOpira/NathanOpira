@@ -68,31 +68,31 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 30px 0;">
+### 📈 Activity & Contributions
 
-  <!-- Stats Card -->
-  <div>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-    <p style="color: #20C20E; margin-top: 5px; font-size: 14px;">📊 Overall Stats</p>
-  </div>
-  
-  <!-- Languages Card -->
-  <div>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff&langs_count=5" alt="Top Languages" />
-    <p style="color: #20C20E; margin-top: 5px; font-size: 14px;">💻 Top Languages</p>
-  </div>
-  
-  <!-- Streak Card -->
-  <div>
-    <img height="195em" src="https://streak-stats.demolab.com?user=NathanOpira&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E" alt="GitHub Streak" />
-    <p style="color: #20C20E; margin-top: 5px; font-size: 14px;">🔥 Contribution Streak</p>
-  </div>
+<!-- Main Stats Cards -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+      <br>
+      <sub><b>GitHub Statistics</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff&langs_count=5" height="180" alt="Top Languages" />
+      <br>
+      <sub><b>Most Used Languages</b></sub>
+    </td>
+  </tr>
+</table>
 
+<!-- Contribution Streak -->
+<div style="margin: 30px 0;">
+  <img src="https://streak-stats.demolab.com?user=NathanOpira&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideLabels=20C20E" height="180" alt="Contribution Streak" />
+  <p style="color: #20C20E; font-size: 14px; margin-top: 5px;">🔥 Consistent Coding Streak</p>
 </div>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects

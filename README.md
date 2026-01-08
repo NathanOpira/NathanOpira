@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=70&lines=👋+Hello!+I'm+Opira+Nathan;📊+Data+Science+%26+Analytics+Student;🤖+Machine+Learning+Enthusiast;🎨+Data+Storyteller+%26+Visualizer;🚀+Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=70&lines=👋+Hello!+I'm+Opira+Nathan;Data+Science+%26+Analytics+Student;Machine+Learning+Enthusiast;Data+Storyteller+%26+Visualizer;Building+Intelligent+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,17 +23,20 @@
 
 ---
 
-##  About Me
+## 📌 About Me
 
 A passionate Data Science and Analytics student at Uganda Christian University with a strong foundation in statistical analysis, machine learning, and data visualization. I specialize in transforming complex datasets into actionable insights and building intelligent predictive models. My approach combines technical precision with artistic sensibility to create compelling data narratives that drive informed decision-making.
 
 ---
 
-##  Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
 ### **Programming & Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgresql&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql&theme=dark&perline=3" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### **Data Science & ML**
@@ -42,18 +45,20 @@ A passionate Data Science and Analytics student at Uganda Christian University w
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-017C74?logo=xgboost&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-017C74?style=for-the-badge&logo=xgboost&logoColor=white" />
 </div>
 
-### **Visualization & BI**
+### **Visualization & BI Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi&theme=dark" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-### **Tools & Platforms**
+### **Dev Tools & Platforms**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,docker&theme=dark&perline=6" />
 </div>
@@ -64,12 +69,14 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=20C20E&text_color=ffffff" />
+  <!-- GitHub Stats -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NathanOpira&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=NathanOpira&theme=github-dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideLabels=20C20E" />
+  <!-- Top Languages -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOpira&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanOpira&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanOpira&theme=github-dark&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff&area=true&hide_title=false" alt="Activity Graph" width="90%" />
 
 </div>
 
@@ -77,49 +84,48 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">📈 Data Analysis Projects</h3>
+### ** Air Quality Analysis**
 <div align="center">
-<a href="https://github.com/NathanOpira/2024-Kaggle-Data-Science-Survey-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanOpira&repo=2024-Kaggle-Data-Science-Survey-Analysis&theme=github_dark&show_owner=true" />
-</a>
-</div>
-<p align="center"><strong>Kaggle Survey Analysis</strong> - Comprehensive analysis of data science trends</p>
-</td>
-<td width="50%">
-<h3 align="center">🤖 Machine Learning</h3>
-<div align="center">
-<a href="https://github.com/NathanOpira/Wine-Quality-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanOpira&repo=Wine-Quality-Prediction&theme=github_dark&show_owner=true" />
-</a>
-</div>
-<p align="center"><strong>Wine Quality Prediction</strong> - ML models for quality classification</p>
-</td>
-</tr>
+  
+[![Air Quality Analysis](https://img.shields.io/badge/🌍-Air_Quality_Analysis-20C20E?style=for-the-badge)](https://github.com/NathanOpira/Air-Quality-Analysis)
 
-<tr>
-<td width="50%">
-<h3 align="center"> Visualization Projects</h3>
-<div align="center">
-<a href="https://github.com/NathanOpira/Traffic-Accident-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanOpira&repo=Traffic-Accident-Analysis&theme=github_dark&show_owner=true" />
-</a>
 </div>
-<p align="center"><strong>Traffic Accident Analysis</strong> - Data visualization and insights</p>
-</td>
-<td width="50%">
-<h3 align="center"> Research & Analysis</h3>
+
+**Description:** Comprehensive analysis of air quality data to identify pollution patterns, trends, and environmental impacts. This project demonstrates expertise in data cleaning, time-series analysis, and environmental data visualization.
+
+**Tech Stack:** 
+`Python` `Pandas` `Matplotlib` `Seaborn` `Time-Series Analysis` `Data Visualization`
+
+**Key Features:**
+- Analyzed pollution levels across different locations and time periods
+- Identified seasonal patterns and pollution hotspots
+- Created interactive visualizations to communicate findings effectively
+- Applied statistical methods to assess environmental impact
+
+**Repository:** [Air-Quality-Analysis](https://github.com/NathanOpira/Air-Quality-Analysis)
+
+---
+
+### ** Energy Consumption Forecast**
 <div align="center">
-<a href="https://github.com/NathanOpira/2024-Kaggle-AI-Survey-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanOpira&repo=2024-Kaggle-AI-Survey-Analysis&theme=github_dark&show_owner=true" />
-</a>
+  
+[![Energy Consumption Forecast](https://img.shields.io/badge/⚡-Energy_Consumption_Forecast-20C20E?style=for-the-badge)](https://github.com/NathanOpira/Energy-consumption-forecast.)
+
 </div>
-<p align="center"><strong>AI Survey Analysis</strong> - In-depth AI industry research</p>
-</td>
-</tr>
-</table>
+
+**Description:** Time-series forecasting project predicting energy consumption patterns using historical data. This showcases predictive modeling skills and practical application of machine learning algorithms.
+
+**Tech Stack:** 
+`Python` `scikit-learn` `Pandas` `NumPy` `Time-Series Forecasting` `Machine Learning`
+
+**Key Features:**
+- Developed predictive models for energy consumption
+- Implemented multiple forecasting algorithms (ARIMA, Prophet, LSTM)
+- Evaluated model performance using RMSE, MAE metrics
+- Created visualizations to show forecast vs actual consumption
+- Provided insights for energy management and planning
+
+**Repository:** [Energy-consumption-forecast.](https://github.com/NathanOpira/Energy-consumption-forecast.)
 
 ---
 
@@ -155,6 +161,7 @@ A passionate Data Science and Analytics student at Uganda Christian University w
   [![Email](https://img.shields.io/badge/Email-opiranathan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opiranathan@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-@NathanOpira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathanOpira)
   [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
+  [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@opiranathan)
 
 </div>
 
@@ -187,4 +194,4 @@ A passionate Data Science and Analytics student at Uganda Christian University w
 
 ---
 
-*Last Updated: December 2024 • Always Learning, Always Building 🚀*
+**Last Updated: December 2024 • Always Learning, Always Building 🚀**

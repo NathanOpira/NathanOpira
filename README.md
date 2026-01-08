@@ -5,13 +5,13 @@
 
 ---
 
-## 🎯 Professional Summary
+## Professional Summary
 
 A dedicated Data Science student passionate about leveraging statistical analysis, machine learning, and data visualization to solve complex problems. Currently advancing my expertise in predictive modeling and big data technologies while developing end-to-end data solutions. Committed to creating impactful, data-driven decisions through clean, efficient, and well-documented code.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### **Programming & Databases**
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
@@ -47,15 +47,15 @@ A dedicated Data Science student passionate about leveraging statistical analysi
 
 ## 📈 Featured Projects
 
-### **🎯 Predictive Analytics**
+### ** Predictive Analytics**
 - **Customer Churn Prediction** – Developed ML models with 92% accuracy using XGBoost and SHAP for interpretation
 - **Sales Forecasting System** – Time-series analysis with Prophet and ARIMA for 6-month predictions
 
-### **📊 Data Visualization**
+### ** Data Visualization**
 - **Interactive Business Dashboard** – Real-time analytics dashboard using Plotly Dash and Power BI
 - **Social Media Sentiment Analyzer** – NLP pipeline with snscrape for data collection and visualization
 
-### **🔍 End-to-End ML Pipeline**
+### ** End-to-End ML Pipeline**
 - **Automated Data Processing** – From data collection to model deployment with MLOps principles
 - **A/B Testing Framework** – Statistical analysis platform for business experiments
 
@@ -76,22 +76,22 @@ A dedicated Data Science student passionate about leveraging statistical analysi
 
 ## 🎨 Beyond Code
 
-**🏆 Competitive Edge:**
+** Competitive Edge:**
 - **Artistic Approach to Data**: Believe that effective data storytelling requires both technical precision and aesthetic sensibility
 - **Cross-disciplinary Thinking**: Combine insights from philosophy, technology, and conservation to approach problems uniquely
 - **Sports Analytics Enthusiast**: Apply data science principles to football statistics and game analysis
 
-**🌱 Currently Exploring:**
+** Currently Exploring:**
 - MLOps and Model Deployment
 - Advanced Deep Learning Architectures
 - Real-time Data Processing Systems
 - Ethical AI and Responsible Data Science
 
 **⚡ Personal Interests:**
-- ⚽ Football analytics and sports statistics
-- 📚 Philosophy of technology and ethics in AI
-- 🐾 Wildlife conservation through data science
-- 🎨 Creating visually compelling data narratives
+-  Football analytics and sports statistics
+-  Philosophy of technology and ethics in AI
+-  Wildlife conservation through data science
+-  Creating visually compelling data narratives
 
 ---
 
